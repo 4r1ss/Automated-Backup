@@ -1,6 +1,7 @@
 # 💾 Automated-Backup
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1.3-red.svg?cacheSeconds=2592000" />
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 </p>
 
 ## Script creates the following folders
