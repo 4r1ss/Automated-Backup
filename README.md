@@ -22,7 +22,7 @@ xcopy /s/h/z C:\Users\Username\source
 ```
 > Along with 
 ```
-D:\Backup\target (The file we created previously
+D:\Backup\target (The file we created previously)
 ```
 ## Removing some properties
 
