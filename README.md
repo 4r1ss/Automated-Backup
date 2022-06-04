@@ -39,8 +39,4 @@ D:\Backup\target (The file we created previously)
 ```/s``` -  Copies directories and subdirectories -
 ## License
 
--Aythor
-
-[4r1s](https://github.com/4r1ss)
-
 [MIT](https://github.com/4r1ss/Automated-Backup/blob/main/LICENSE.md)
