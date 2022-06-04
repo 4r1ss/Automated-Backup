@@ -1,4 +1,8 @@
 # 💾 Automated-Backup
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.3-red.svg?cacheSeconds=2592000" />
+</p>
+
 
 ## Update path based on your username
 
