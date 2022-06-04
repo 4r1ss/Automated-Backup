@@ -1,7 +1,8 @@
 # 💾 Automated-Backup
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1.3-red.svg?cacheSeconds=2592000" />
-  
+  <img alt="Version" src="https://img.shields.io/github/license/4r1ss/Automated-Backup" />
+  <img alt="Version" src="https://img.shields.io/github/issues/4r1ss/Automated-Backup" />
 </p>
 
 ## Script creates the following folders
@@ -36,3 +37,10 @@ D:\Backup\target (The file we created previously)
 ```/z``` - Copies networked files in restartable mode -
 
 ```/s``` -  Copies directories and subdirectories -
+## License
+
+-Aythor
+
+[4r1s](https://github.com/4r1ss)
+
+[MIT](https://github.com/4r1ss/Automated-Backup/blob/main/LICENSE.md)
