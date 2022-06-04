@@ -1,6 +1,6 @@
 # 💾 Automated-Backup
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.3-red.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1.3-red.svg?cacheSeconds=2592000" />
 </p>
 
 ## Script creates the following folders
