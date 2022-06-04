@@ -3,6 +3,10 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.3-red.svg?cacheSeconds=2592000" />
 </p>
 
+## Script creates the following folders
+
+- Backup
+- ZippedBackup
 
 ## Update path based on your username
 
@@ -26,8 +30,8 @@ D:\Backup\target (The file we created previously)
 ```
 ## Removing some properties
 
-``` /h ```  - Copies system and hidden files - 
+```/h```  - Copies system and hidden files - 
 
-```/z ``` - Copies networked files in restartable mode -
+```/z``` - Copies networked files in restartable mode -
 
 ```/s``` -  Copies directories and subdirectories -
