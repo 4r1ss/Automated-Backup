@@ -21,5 +21,5 @@ xcopy /s/h/z C:\Users\Username\3D Objects D:\Backup\3D Objects
 for /f "tokens=3,2,4 delims=/- " %%x in ("%date%") do set d=%%y%%x%%z
 set data=%d%
 Echo Zipping folder...
-"C:\Program Files\7-Zip\7z.exe" a -tzip "D:\zipped_backup" "D:\Backup"
+"C:\Program Files\7-Zip\7z.exe" a -tzip "D:\ZippedBackup" "D:\Backup"
 echo Finished!
