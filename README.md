@@ -39,7 +39,7 @@ D:\Backup\target (The file you created previously)
 ## Requirements
 
 - You'll need [7-zip](https://www.7-zip.org) in order to be able to zip your file
-> 7-zip should be downloaded in the default path , if its downloaded in a different path you should update it from :
+> 7-zip should be downloaded in the default path , if its downloaded in a different path you should update it from:
 ```
 "C:\Program Files\7-Zip\7z.exe"  < (Here) a -tzip "D:\ZippedBackup" "D:\Backup" 
 ```
