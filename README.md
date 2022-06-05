@@ -10,12 +10,6 @@
 - Backup
 - ZippedBackup
 
-## Update path based on your username
-
-```
-Replace C:\Users\"Username"\ with your username
-```
-
 ## Adding new folders to our backup
 
 - Creating File
