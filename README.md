@@ -10,7 +10,7 @@
 - Backup
 - ZippedBackup
 
-## Adding new folders to our backup
+## Adding new folders to your backup
 
 - Creating File
 ```
@@ -22,7 +22,7 @@ xcopy /s/h/z C:\Users\%Username%\source
 ```
 > Along with 
 ```
-D:\Backup\target (The file we created previously)
+D:\Backup\target (The file you created previously)
 ```
 ## Removing some properties
 
