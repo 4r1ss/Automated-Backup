@@ -33,6 +33,6 @@ D:\Backup\target (The file we created previously)
 ```/s``` -  Copies directories and subdirectories -
 ## You can also add
 
-```/w``` - Use this to present a "Press any key when ready to being copying file(s)" message.
+```/w``` - Use this to present a "Press any key when ready to begin copying file(s)" message.
 
 ```/p``` - This asks for verification before each file copy.
