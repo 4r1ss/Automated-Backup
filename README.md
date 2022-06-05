@@ -36,3 +36,10 @@ D:\Backup\target (The file we created previously)
 ```/w``` - Use this to present a "Press any key when ready to begin copying file(s)" message.
 
 ```/p``` - Use this to ask for verification before each file copy.
+## Requirements
+
+- You'll need [7-zip](https://www.7-zip.org) in order to be able to zip your file
+> 7-zip should be downloaded in the default path , if its downloaded in a different path you should update from :
+```
+"C:\Program Files\7-Zip\7z.exe"  < (Here) a -tzip "D:\ZippedBackup" "D:\Backup" 
+```
