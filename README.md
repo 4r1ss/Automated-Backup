@@ -18,7 +18,7 @@ mkdir D:\Backup\Name of the file
 ```
 - Creating Backup
 ```
-xcopy /s/h/z C:\Users\Username\source
+xcopy /s/h/z C:\Users\%Username%\source
 ```
 > Along with 
 ```
