@@ -35,4 +35,4 @@ D:\Backup\target (The file we created previously)
 
 ```/w``` - Use this to present a "Press any key when ready to begin copying file(s)" message.
 
-```/p``` - This asks for verification before each file copy.
+```/p``` - Use this to ask for verification before each file copy.
