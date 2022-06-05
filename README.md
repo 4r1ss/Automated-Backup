@@ -31,6 +31,8 @@ D:\Backup\target (The file we created previously)
 ```/z``` - Copies networked files in restartable mode -
 
 ```/s``` -  Copies directories and subdirectories -
-## License
+## You can also add
 
-[MIT](https://github.com/4r1ss/Automated-Backup/blob/main/LICENSE.md)
+```/w``` - Use this to present a "Press any key when ready to being copying file(s)" message.
+
+```/p``` - This asks for verification before each file copy.
