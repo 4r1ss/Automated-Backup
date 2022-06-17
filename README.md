@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1.3-red.svg?cacheSeconds=2592000" />
  
-  <img alt="Version" src="https://img.shields.io/github/issues/4r1ss/Automated-Backup" />
+  <img alt="issues" src="https://img.shields.io/github/issues/4r1ss/Automated-Backup" />
 </p>
 
 ## Script creates the following folders
