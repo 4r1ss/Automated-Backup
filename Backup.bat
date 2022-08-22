@@ -1,4 +1,13 @@
 @echo off
+:::
+:::    _       _                  _          _   ___          _             
+:::   /_\ _  _| |_ ___ _ __  __ _| |_ ___ __| | | _ ) __ _ __| |___  _ _ __ 
+:::  / _ \ || |  _/ _ \ '  \/ _` |  _/ -_) _` | | _ \/ _` / _| / / || | '_ \
+::: /_/ \_\_,_|\__\___/_|_|_\__,_|\__\___\__,_| |___/\__,_\__|_\_\\_,_| .__/
+:::                                                                   |_|   
+:::                                                                                                                                   
+
+for /f "delims=: tokens=*" %%A in ('findstr /b ::: "%~f0"') do @echo(%%A
 mkdir D:\Backup
 mkdir D:\Backup\Pictures
 mkdir D:\Backup\Desktop
@@ -20,3 +29,4 @@ set data=%d%
 Echo Zipping folder...
 "C:\Program Files\7-Zip\7z.exe" a -tzip "D:\ZippedBackup" "D:\Backup"
 echo Finished!
+
